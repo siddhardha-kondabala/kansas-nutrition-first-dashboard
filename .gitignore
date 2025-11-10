@@ -1,7 +1,12 @@
-.venv*/
-.venv313*/
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+.streamlit/
 .ipynb_checkpoints/
 .DS_Store
+Thumbs.db
